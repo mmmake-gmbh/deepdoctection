@@ -220,7 +220,7 @@ setup(
     name="deepdoctection",
     version=get_version(),
     author="Dr. Janis Meyer",
-    url="https://github.com/deepdoctection/deepdoctection",
+    url="https://github.com/mmmake-gmbh/deepdoctection",
     license="Apache License 2.0",
     description="Repository for Document AI",
     long_description=long_description,
